@@ -5,6 +5,10 @@
 		"email": "christofer.nolander@gmail.com",
 		"name": "Christofer Nolander"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nolanderc/quickfixed"
+	},
 	"displayName": "quickfixed",
 	"description": "Allows using the keyboard in the quickfix menu",
 	"version": "0.0.1",
@@ -19,7 +23,7 @@
 		"workspace"
 	],
 	"activationEvents": [
-		"*"
+		"onStartupFinished"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
