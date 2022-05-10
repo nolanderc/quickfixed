@@ -11,7 +11,7 @@
 	},
 	"displayName": "quickfixed",
 	"description": "Allows using the keyboard in the quickfix menu",
-	"icon": "quickfixed-icon.png",
+	"icon": "quickfixed-logo.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.67.0"
